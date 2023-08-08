@@ -3,3 +3,4 @@ google-cloud-aiplatform
 langchain
 chromadb
 unstructured
+transformers
